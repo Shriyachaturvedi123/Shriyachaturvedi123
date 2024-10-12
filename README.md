@@ -1,3 +1,4 @@
+1[logo](https://github.com/Shriyachaturvedi123/Shriyachaturvedi123/blob/main/shriya.jpeg)
 <h1 align="center">Hi 👋, I'm Shriya Chaturvedi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
